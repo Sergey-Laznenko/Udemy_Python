@@ -30,4 +30,4 @@ print(numbers)
 print(numbers.index(4))
 print(numbers.count(4))
 """
-# dict - словарь
+# 3.2_dict - словарь
